@@ -1,0 +1,22 @@
+{
+  "name": "react-youtube-clone",
+  "version": "1.0.0",
+  "description": "this is a youtube clone",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ShahAashka/react-youtube-clone.git"
+  },
+  "author": "Aashka Acharya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ShahAashka/react-youtube-clone/issues"
+  },
+  "homepage": "https://github.com/ShahAashka/react-youtube-clone#readme",
+  "devDependencies": {
+    "parcel": "^2.8.3"
+  }
+}
